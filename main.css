@@ -1,0 +1,65 @@
+.Father {display: flex;}
+
+.Mother {display: flex;}
+
+.div1 {
+    background-color: rgb(113, 113, 202);
+    color: aliceblue;
+    height: 128px;
+    text-align: center;
+    padding: 20px;
+}
+
+.div2 {
+    background-color: red;
+    color: aliceblue;
+    height: 208px;
+    text-align: center;
+    padding: 65px;
+    width: 200px;
+}
+
+.div3 {background-color: rgb(15, 190, 15);
+height: 208px;
+width: 700px;
+padding: 65px;
+text-align: center;}
+
+.div4 {background-color: yellow;
+height: 208px;
+width: 200px;
+padding: 65px;
+text-align: center;}
+
+.Mother {background-color: blue;
+ width: 1417px;
+height: 200px;
+padding: 20px;}
+
+.div5 {background-color: rgb(160, 150, 0);
+height: 170px;
+width: 300px;
+padding: 10px;
+text-align: center;
+margin-right: 15px;
+margin-left: 40px;}
+
+.div6 {background-color: rgb(160, 150, 0);
+height: 170px;
+width: 300px;
+padding: 10px;
+text-align: center;
+margin-right: 15px;}
+
+.div7 {background-color: rgb(160, 150, 0);
+height: 170px;
+width: 300px;
+padding: 10px;
+text-align: center;
+margin-right: 15px;}
+
+.div8 {background-color: rgb(160, 150, 0);
+height: 170px;
+width: 300px;
+padding: 10px;
+text-align: center;}
